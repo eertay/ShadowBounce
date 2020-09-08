@@ -29,5 +29,5 @@ public class Turn {
      * @return powerup of the associated turn
      */
     public Powerup getPowerup() { return this.powerup; }
-
+   
 }
